@@ -2,6 +2,8 @@
 
 The Simple Wiki Browser is a lightweight Java application designed to fetch and display content from Wikipedia in a user-friendly interface. Built with Java Swing, it offers a straightforward way to search Wikipedia articles by entering queries into a text field and viewing the results directly within the application. This document outlines the features, usage, and setup instructions for the Simple Wiki Browser.
 
+![browserjava](https://github.com/JeninSutradhar/SimpleWikiBrowserJava/assets/111521642/26682782-567f-4a51-8b29-d47e69a26003)
+
 ## Features
 
 - **Dark Theme Interface**: A sleek, polished black theme that is easy on the eyes, especially during extended usage periods.
