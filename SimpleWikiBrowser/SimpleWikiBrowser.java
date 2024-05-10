@@ -18,7 +18,7 @@ public class SimpleWikiBrowser extends JFrame {
 
     private void createUI() {
         setTitle("Simple Wiki Browser");
-        setSize(800, 600);
+        setSize(1000, 800);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
