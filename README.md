@@ -37,15 +37,7 @@ Here are the steps to get the application up and running:
     mvn javafx:run
     ```
 
-    This will start the JavaFX application.
-
-## Usage
-
-1.  Once the application starts, a Wikipedia start page will be displayed by default.
-2.  Enter the title of a Wikipedia article into the search bar.
-3.  Click on the "Search" button.
-4.  The browser will load the specified page. If the page doesn't exist, the default wikipedia page will be loaded.
-5.  You can navigate through the webpage as usual.
+    This will start the JavaFX application :)
 
 ## Troubleshooting
 
