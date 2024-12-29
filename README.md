@@ -16,10 +16,10 @@ Here are the steps to get the application up and running:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-github-repo-url>
-    cd simple-wiki-browser
+    git clone [<your-github-repo-url>](https://github.com/JeninSutradhar/SimpleWikiBrowserJava)
+    cd SimpleWikiBrowser
     ```
-    Replace `<your-github-repo-url>` with the actual URL of your GitHub repository.
+    Replace `[<your-github-repo-url>](https://github.com/JeninSutradhar/SimpleWikiBrowserJava)` with the actual URL of your GitHub repository.
 
 2.  **Build the project using Maven:**
 
