@@ -1,0 +1,11 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "Java 23",
+            "path": "/usr/lib/jvm/java-23-openjdk-amd64"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "path/to/javafx-sdk-23/lib/*.jar"
+    ]
+}
