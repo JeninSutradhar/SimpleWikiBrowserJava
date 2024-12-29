@@ -2,6 +2,8 @@
 
 A simple JavaFX-based Wikipedia browser application. This application allows users to search for Wikipedia articles directly from a simple user interface.
 
+![image](https://github.com/user-attachments/assets/adb89b8c-8f3a-46b4-a3c1-e6040c7f4acd)
+
 ## Prerequisites
 
 Before you can run the application, you need to ensure you have the following installed:
